@@ -29,7 +29,18 @@
   "devDependencies": {
     "cssmin": "^0.4.3",
     "grunt": "^1.1.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-filerev": "^2.3.1",
     "grunt-sass": "^3.1.0",
+    "grunt-usemin": "^3.1.1",
     "htmlmin": "0.0.7",
     "jit-grunt": "^0.10.0",
     "lite-server": "^2.5.4",
@@ -44,8 +55,13 @@
     "bootstrap": "^4.4.1",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
+    "gifsicle": "^1.0.2",
+    "imagemin-optipng": "^7.1.0",
+    "imagemin-svgo": "^7.1.0",
+    "jpegtran-bin": "^4.0.0",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
-    "popper.js": "^1.12.9"
+    "optipng-bin": "^6.0.0",
+    "popper.js": "^1.16.1"
   }
 }
